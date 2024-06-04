@@ -1,0 +1,16 @@
+{
+  "dataset_name": "4 classes",
+  "description": "This dataset contains data that targets 4 classes",
+  "version": "1.0",
+  "creation_date": "2024-04-09",
+  "size": "18,9 MB",
+  "num_classes": 3,
+  "nb_samples_per_class": 120,
+  "classes_types": {
+    "COVID",
+    "Normal",
+    "Lung_Opacity",
+    "Viral_Pneumonia"
+  },
+  "last_modification": "2024-04-09"
+}

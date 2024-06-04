@@ -1,0 +1,15 @@
+{
+  "nom_dataset": "Healthy / Sick",
+  "description": "Ce dataset contient des données qui cible une classe binaire Sain/Malade",
+  "version": "1.0",
+  "date_creation": "2024-03-20",
+  "taille": "9,5 MB",
+  "nombre_classes": 2,
+  "nombre_echantillons_par_classe": 120,
+  "types_classes": {
+    "Healthy",
+    "Sick"
+  },
+  "derniere_modification": "2024-03-20"
+  "notes_supplementaires": "La classe 'Sain' contient 100% de classe 'Normal', et 'Malade' contient 1/3 de chaque classe."
+}
